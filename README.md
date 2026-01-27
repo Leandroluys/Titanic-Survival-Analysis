@@ -78,7 +78,7 @@ These plots help in understanding key survival trends.
 ```
 Titanic-Survival-Analysis/
 │
-├── Titanic.ipynb
+├── Titanic_Survival_Analysis.ipynb
 ├── data/
 │   └── titanic.csv
 ├── images/
