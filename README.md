@@ -75,6 +75,7 @@ These plots help in understanding key survival trends.
 ---
 
 ## 📁 Project Structure
+```
 Titanic-Survival-Analysis/
 │
 ├── Titanic.ipynb
@@ -83,6 +84,7 @@ Titanic-Survival-Analysis/
 ├── images/
 │   └── plots/
 └── README.md
+```
 
 ---
 
