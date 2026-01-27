@@ -79,9 +79,9 @@ Titanic-Survival-Analysis/
 │
 ├── Titanic.ipynb
 ├── data/
-│ └── titanic.csv
+│   └── titanic.csv
 ├── images/
-│ └── plots/
+│   └── plots/
 └── README.md
 
 ---
